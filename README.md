@@ -2,10 +2,10 @@
 
 Rename your MySQL databases easily with this simple shell script.
 
-### Usage
+## Usage
 
-./dbrename.sh [-u user] dbName newDbName
+    ./dbrename.sh [-u user] dbName newDbName
 
-### License
+## License
 
 Released under the MIT License.
